@@ -22,6 +22,8 @@ incluindo o Modelo Conceitual, Lógico e Físico. O texto também descreve o pro
 e garantia da integridade. Além disso, é apresentado um panorama sobre os bancos de dados não relacionais (NoSQL), enfatizando suas principais categorias: 
 armazenamento chave-valor, de documentos, de coluna larga e de grafos. Você pode acessar este tópico [neste link.](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/extra_bancodedados_sql_nosql.pdf)
 
+O conteúdo extra **Workflows Confiáveis em Python** apresenta os principais conceitos e ferramentas que sustentam o desenvolvimento moderno em Python. Inicialmente, é abordado o ciclo de releases da linguagem e seu modelo de versionamento, que busca equilibrar inovação e estabilidade. Em seguida, discute o uso de ambientes virtuais, que permitem isolar dependências entre projetos e evitar conflitos de bibliotecas. Também é apresentado o pyproject.toml, arquivo que centraliza metadados, dependências e configurações de build de forma padronizada. O material explora ainda ferramentas modernas como Poetry e uv, que facilitam o gerenciamento de dependências, ambientes e empacotamento de projetos. Por fim, introduz o pipx, utilizado para instalar ferramentas Python de forma isolada. Essas práticas tornam o desenvolvimento mais reprodutível, organizado e adequado para ambientes profissionais, como engenharia de dados e pipelines automatizados.  Você pode acessar este tópico [neste link.](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/extra_workflows_confiaveis_python.pdf)
+
 
 Autor:
 Leticia da Luz
